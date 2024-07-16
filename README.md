@@ -1,2 +1,2 @@
 # demoLR-RR
-demo project how ro LR to RR
+demo project how to LR to RR
